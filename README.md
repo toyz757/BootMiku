@@ -1,4 +1,7 @@
 # README
+## 注意点
+Mac上での動作確認しかできておりません。
+
 ## 起動方法
 BootMiku.shを実行することで起動可能
 
@@ -9,3 +12,7 @@ BootMiku.shを実行することで起動可能
 |---|---|
 |song_anything_command.txt|歌って|
 |find_file_command.txt|ファイル検索したい|
+
+## オススメの使い方  
+- aliasでBootMikuをコマンド化すると、それっぽい
+- automatorでファイル生成させると音声操作が可能になる
