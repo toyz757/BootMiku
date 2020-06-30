@@ -1,4 +1,4 @@
-INPUT_DIR="InputSound.py"
+INPUT_DIR="../tools/InputSound.py"
 result_file_path="./result.txt"
 
 #カレントディレクトリを自身のファイルへ
