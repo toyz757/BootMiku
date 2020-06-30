@@ -3,7 +3,7 @@ FIND_FILE="./find_file/FindFile.sh"
 #このファイルがあるとSONG_ANYTHINGが実行
 SONG_ANYTHING_COMMAND="song_anything_command.txt"
 #SONG_ANYTHINGファイル
-SONG_ANYTHING="./song_anything/song_anything.sh"
+SONG_ANYTHING="./song_anything/SongAnything.sh"
 
 #カレントディレクトリを自身のファイルへ
 cd `dirname $0`

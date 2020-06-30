@@ -1,4 +1,4 @@
-INPUT_DIR="InputSound.py"
+INPUT_DIR="../tools/InputSound.py"
 
 #カレントディレクトリを自身のファイルへ
 cd `dirname $0`
