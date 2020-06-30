@@ -10,6 +10,6 @@ if [ "失敗しました" != "${file_name}" ]; then
 	find /Users/takimototatsumi/Documents -name "*${file_name}*" > $result_file_path
 	say "検索完了しました"
 	open $result_file_path
+else
+	say "すいません、上手く聞き取れませんでした。"
 fi
-
-say "すいません、上手く聞き取れませんでした。"
